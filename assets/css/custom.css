@@ -1,0 +1,67 @@
+@CHARSET "UTF-8";
+
+.text-left {
+	text-align: left !important;
+}
+.text-center {
+	text-align: center !important;
+}
+.text-right {
+	text-align: right !important;
+}
+.text-capital {
+	  text-transform: capitalize;
+}
+
+.msgbox {
+	padding: 10px 10px 0 10px;
+}
+.login-box .button-login.btn-group > .btn:first-child {
+	padding: 7px 12px 6px;
+}
+
+.users-table .dataTables_length select {
+	width: 80px;
+}
+
+.user-detail {
+	
+}
+
+.user-detail .control-group {
+	border-bottom: solid 1px #ddd;
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+
+.user-detail .control-group .control-label {
+	font-weight: bold;
+}
+
+.user-detail .control-group .controls span {
+	display: block;
+	padding-top: 5px;
+}
+
+.user-detail .table th, .user-detail .table td {
+	border-top: none;
+	border-bottom: 1px solid #dddddd;
+}
+
+.user-detail .table.table-bsi {
+	width: 380px;
+}
+
+.profile-photo {
+	width: 128px;
+	height: auto;
+}
+.empty-photo {
+	width: 128px;
+	height: 128px;
+	border: 1px solid #ddd;
+}
+
+.control-group .error-text {
+	display: none;
+}

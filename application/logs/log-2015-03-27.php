@@ -1,0 +1,29 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-03-27 00:07:29 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:08:47 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:09:43 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:09:54 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:09:57 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:10:02 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:10:46 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:10:46 --> Severity: Notice  --> Undefined variable: fitting_reports D:\xampp\htdocs\linkqlo\application\controllers\post.php 186
+ERROR - 2015-03-27 00:11:42 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:11:48 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:11:53 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:14:10 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:14:12 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:14:15 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:14:37 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:14:37 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:15:38 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:15:42 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:17:14 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:18:47 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:18:47 --> Severity: Notice  --> Undefined index: user_id D:\xampp\htdocs\linkqlo\application\controllers\post.php 216
+ERROR - 2015-03-27 00:18:47 --> Severity: Notice  --> Undefined index: user_id D:\xampp\htdocs\linkqlo\application\controllers\post.php 216
+ERROR - 2015-03-27 00:20:02 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:20:03 --> Query error: Unknown column 'user_name2' in 'where clause'
+ERROR - 2015-03-27 00:21:09 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-03-27 00:21:09 --> Query error: Unknown column 'user_name2' in 'where clause'
+ERROR - 2015-03-27 00:21:24 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\linkqlo\system\database\drivers\mysql\mysql_driver.php 73

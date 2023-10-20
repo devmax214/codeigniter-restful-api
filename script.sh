@@ -1,0 +1,1 @@
+curl http://54.213.199.63/api/check_items > /var/www/html/check_items

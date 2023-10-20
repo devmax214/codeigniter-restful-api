@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Pages */
+
+#login-widget, #signup-widget {
+	position: absolute;
+	margin-bottom: 20px;
+}
+
+.remove-link {
+	padding-left: 20px;
+	font-size: 11px;
+	color: #408eb5 !important;
+}
+
+.lecture-content-files {
+	float: left;
+	margin-top: 14px;
+}
+
+.lecture-content-files p {
+	padding-left: 14px;
+	padding-top: 2px;
+}
+
+.rating-control {
+	display: inline-block;
+	height: 12px;
+}
+
+.course-review-form .rating-control, .user-review-form .rating-control {
+	float: left;
+	padding: 5px;
+	margin: 8px 10px;
+}
+
+.lecture-content-button {
+	margin-top:18px;
+}
+
+.top-src {
+	padding-top:20px;
+	
+}
+.welcome {
+	font-size:14px;
+	color:#c2c2c2;
+	text-align:right;
+}
